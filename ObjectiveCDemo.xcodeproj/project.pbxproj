@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1FBF2CCE2554FEA900AE0BF9 /* ObjectiveCDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ObjectiveCDemo; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FBF2CD12554FEA900AE0BF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1FBF2CD12554FEA900AE0BF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; usesTabs = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
